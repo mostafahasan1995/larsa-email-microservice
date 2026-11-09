@@ -1,0 +1,140 @@
+{
+  "Hi": "Hi",
+  "KindRegards": "Kind Regards",
+  "emailConfirmation": "Email Confirmation",
+  "thanksForReg": "Thank you for your registering in {{appName}}",
+  "clickOnLink": "To confirm your email address please click on the link below:",
+  "ifNotWork": "If the link didn't work please copy and paste it in your browser.",
+  "receivedBecauseResendReq": "You received this email because we received a request to resend the confirmation email for your account.",
+  "receivedBecauseChangeEmailReq": "You received this email because you changed the email address of your account to this one.",
+  "ifNotYou": "If that was not you, there's nothing else to do.",
+  "cetCongrats": "Congratulations, you unlocked your certificate of completion for",
+  "difh": "Download it from the link bellow.",
+  "courseCompletion": "Course Completion",
+  "resetPassword": "Reset Password",
+  "resetPassReq": "You received this email because we received a request to reset you your account password.",
+  "toChangePassword": "To reset your password please click on the link below or copy it and paste it in your browser:",
+  "toChangePasswordWithCode": "To reset your password please use the code below:",
+  "ifNotReqResPass": "If you did not request a reset password then there is nothing else to do.",
+  "certLink":"Certificate link",
+
+
+  "journal": {
+    "manuscriptRef": "Ref: {{articleNumber}} {{articleTitle}}",
+    "intendedPerson": "Dear {{intendedPerson}}",
+    "website": "https://www.wgc.ae",
+    "editorialEmail": "wgc.tdhp.journal@ha.ae",
+    "ref": "Ref: {{number}} {{title}}",
+    "dear": "Dear {{name}}",
+    "bestWishes": "Best wishes",
+    "signature": "Talent Development and High Performance",
+    "position": {
+      "editor": "Editor",
+      "reviewer": "Editor",
+      "author": "Editor"
+    },
+    "eic": {
+      "invitation": {
+        "sec1": "The aforementioned manuscript was submitted to Talent Development and High Performance journal an (TDHP).",
+        "sec2":"Please log into the Editorial Manager system as an editor-in-chief to view the full submission or click on the link below.  As an editor-in chief for this manuscript, you may determine either to send the article to an editor for further review or you may reject it at this stage if it is inappropriate for the TDHP journal.",
+        "sec3": "For further information on the TDHP’s editorial policy, please visit the journal-website {{website}}.",
+        "sec4":"If you are unable to handle this manuscript, please contact the editorial team {{editorialEmail}}.",
+        "sec5":"Please click on the link below to view the submission."
+      },
+      "afterReviewsFinished": {
+        "sec1": "Please note that all required reviews for manuscript {{number}} have now been submitted by reviewers.",
+        "sec2": "You may now proceed in making a final editorial evaluation/decision for this manuscript based on your assessment of the received reviews and guided by the journal's acceptance criteria. If the submitted reviews are not sufficient to enable you to make a constructive decision, or they are inconsistent, then the manuscript should be sent out for further peer review.",
+        "sec3": "Editors are expected to evaluate manuscripts objectively, fairly, and not based on predictions of future levels of importance.",
+        "sec4": "When submitting your decision, you can choose from the following options:",
+        "l1": {
+          "t": "Accept:",
+          "p": "if you feel the manuscript is publishable in its current form or with only minor grammatical, typographical, or stylistic adjustments (which always take place during the copy-editing and typesetting process)."
+        },
+        "l2": {
+          "t": "Minor Revision:",
+          "p": " when moderate or light revisions are only needed before the manuscript is publishable."
+        },
+        "l3": {
+          "t": "Major Revision: ",
+          "p": " when significant revisions and/or amendments are required to make the manuscript publishable."
+        },
+        "l4": {
+          "t": "Reject:",
+          "p": " if you determined that the manuscript would require significant or complete new research in order to make it acceptable and publishable (as opposed to further analysis or re-writing of the existing research), or if the submitted work is fundamentally flawed/unsound."
+        },
+        "sec5": "Please click on the link below to access the submission & reviewers’ comments; and to make your final decision:"
+      }
+    },
+
+
+    "editor": {
+      "sec1":"As an editor of Talent Development and High-Performance journal (TDHP), we would like to pass the aforementioned manuscript to you for editorial consideration. Please log into the Editorial Manager system as an editor to view the full submission or click on the link at the end of this email.",
+      "sec2":"If you are unable to handle this manuscript, please contact the editorial team via the following email: {{editorialEmail}}.",
+      "sec3":"As an editor for this manuscript, you may firs determine if it is suitable to proceed into full peer review based on the journal’s editorial criteria. That is, the submission is within the scope of the journal, and it demonstrates scientific and/or scholarly authenticity. For further information on the TDHP-editorial policy, please visit the journal-website:",
+      "sec4":"If you decide not to send the manuscript out for peer review, you should consider one of the following decision options:",
+      "l1":{
+        "t":"Reject:",
+        "p":" and Recommend the work to be submitted elsewhere if a manuscript is sound and may fit the scope of other relevant journals"
+      },
+      "l2":{
+        "t":"Reject after desk review",
+        "p":""
+      },
+      "sec5":"In order to conduct a full peer review on the manuscript, please make sure to select referees with appropriate and/or reasonable expertise/background; and who do not have any kinds of plausible conflict of interest. Alternatively, you may invite other referee to register as reviewers and then assign them to review the submission. ",
+      "sec6":"Scholarly work should be reviewed by at least two independent referees, whereas other manuscript types such as short communications, review articles, book review, etc.) require only one reviewer in addition to the editor's assessment.",
+      "sec7":"Once the reviews are returned, you can make an editorial decision on the manuscript based on the journal's editorial criteria. Nevertheless, if the reviews are not sufficient to enable you to make a decision, then the manuscript should be sent out for further peer review.",
+      "sec8":"Please note that accepted manuscripts will be copyedited and formatted into the journal style before publication.",
+      "sec9":"However, if you are unable to assess the manuscript because of severe language problems, you may earlier decide to reject the article after desk review; and then you may recommend the document to be carefully reviewed and edited by a competent professional expert.",
+      "sec10":"Whatsoever your decision on the manuscript, we encourage you to provide constructive feedback/comments to the author in the 'Editor's Comments to Author' field in the 'Submit Editor's decision and Comments' form.",
+      "sec11":"If you need any assistance with using the TDHP’s editorial system, please send an email to our editorial team:",
+      "sec12":"Please click on the link below to access the submission:"
+    },
+
+    "reviewer": {
+      "invitation": "{{editor}} is  an editor for Talent Development and High-Performance Journal (TDHP), would like to invite you to review a manuscript entitled {{title}}. This task involves the completion of a thorough review and submitting your comments for the authors and probably confidential comments to the editor (if applicable) in the form of recommendations, with the entire process conducted via an easy online system. Yor are expected to submit your review within three weeks {{deadline}}.",
+      "sec1": "Please note that TDHP follows a single blind peer-review process. All agreed reviewers must have sufficient expertise/background in the topic of the manuscript and have no conflict of interest that may impede them from providing an unbiased view and feedback. For further information about the TDHP’s criteria/policy of publication, expectations of reviewers and the review process, please visit the journal’s website.",
+      "sec2": "If you have already reviewed a previous version of this manuscript, please note that you should be mainly checking and assessing the revision based on whether authors have successfully made the requested amendments, rather than identifying new issues. ",
+      "sec3": "Please find the abstract for the manuscript below for your information.",
+      "sec4": "The full paper will be available for you to read on the online system after  accepting the invitation. Please click on the “accept button” below if you are able to review the manuscript.",
+      "accept": "Accept",
+      "decline": "Decline"
+    },
+
+
+    "author": {
+      "acceptanceEmail": {
+        "sec1": "we are pleased to inform you that your submitted manuscript was accepted for publication in Talent Development and High Performance journal (TDHP) on {{acceptanceDate}}",
+        "sec2": "Please note that only minor, or typographical amendments can be conducted during both typesetting and proofing stages of your manuscript. Making any major changes to your manuscript at this final stage is not permitted at all.",
+        "sec3": "Comments from both the editor and reviewers can be found below if available, and you will have an opportunity to make any required minor changes at the proofing stage.",
+        "sec4": "Your article will be shareable and adaptable by anyone as long as the user gives appropriate credit, provides a link to the license, and indicates if changes were made.",
+        "sec5": "Once the version of record (VoR) of your article has been published in TDHP, please feel free to put a copy in your institutional website.",
+        "sec6": "Lastly, we sincerely thank you for submitting your manuscript to TDHP, and we hope that you will consider our journal for your future submissions."
+      },
+      "rejectionAfterReviews": {
+        "sec1": "Please be informed that reviewers' comments on your manuscript have now been received. Having considered these comments alongside your paper, we have concluded that, unfortunately, we will not be able to publish your paper in Talent Development and High-Performance journal (TDHP) on this occasion.",
+        "sec2": "We hope the outcome of this specific submission will not discourage you from submitting other manuscripts to TDHP in the future.",
+        "sec3": "You are certainly now free to submit your manuscript elsewhere should you decide to do so.",
+        "sec4": "Thank you for giving us the opportunity to consider your work."
+      },
+      "rejectAfterDeskReview": {
+        "sec1": "We would like to share with you that after conducting a very careful check and deliberation, we regret to inform you that, unfortunately, we will not be able to publish your paper in Talent Development and High-Performance journal (TDHP) on this occasion.",
+        "sec2": "You are certainly now free to submit your manuscript elsewhere should you decide to do so.",
+        "sec3": "We thank you for giving us the opportunity to consider your work. We hope the outcome of this specific submission will not discourage you from submitting other manuscripts to TDHP in the future."
+      },
+      "afterReviewingTheArticle": {
+        "sec1": "Thank you for your patience following the submission of your work  to Talent Development and High Performance (TDHP). Your manuscript entitled {{title}}, has now been reviewed.",
+        "sec2": "It has been decided that your manuscript will require a minor/major revision before publication. Please note that comments from the reviewers can be viewed at the end of this email.",
+        "sec3": "The deadline for this revised submission is {{date}}.",
+        "sec4": "If you do not wish to conduct this revision, and would prefer to submit your work elsewhere, please make sure to send the editorial team an email to: wgc.tdhp.journal@ha.ae.",
+        "sec5": "However, we truly encourage you to proceed with revising your manuscript; and please submit an editable word document that includes your amendments.",
+        "sec6": "To submit your revised manuscript please go to",
+        "sec7":"and log in. You will see an option to revise your manuscript alongside your submission record.",
+        "sec8": "If you find difficulty figuring out how to resubmit your revised version, then please send an email to: {{editorialEmail}}, and our editorial team will be very happy to assist you.",
+        "sec9": "Thank you for considering revising your work on time, and we are looking forward to receiving your revised manuscript soon."
+      }
+    }
+  },
+  "assignmentSubject": "You have been assigned as {{position}}",
+  "AssignmentMsg": "You are receiving this message because you have been assigned as an {{position}} on an article:{{article}}",
+  "assignmentFollowUp": "To view this manuscript and others please click on the link below or copy it and paste it in your browser:"
+}

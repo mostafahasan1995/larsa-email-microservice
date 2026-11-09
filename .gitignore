@@ -1,0 +1,10 @@
+/node_modules
+package-lock.json
+.env
+# local secrets and build output
+.env
+.env.*
+!.env.example
+!.env.template
+tmp/
+*.log

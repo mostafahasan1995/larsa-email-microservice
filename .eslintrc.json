@@ -1,0 +1,23 @@
+// {
+//   "env": {
+//     "commonjs": true,
+//     "es6": true,
+//     "node": true
+//   },
+//   "extends": ["standard"],
+//   "globals": {
+//     "Atomics": "readonly",
+//     "SharedArrayBuffer": "readonly",
+//     "aventum": true,
+//     "redis": true,
+//     "dateLocale": true,
+//     "getStringID": true,
+//     "getOptionValue": true,
+//     "callService": true
+//   },
+//   "parserOptions": {
+//     "ecmaVersion": 2018
+//   },
+//   "parser": "babel-eslint",
+//   "rules": {}
+// }
